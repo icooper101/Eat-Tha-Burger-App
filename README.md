@@ -8,5 +8,12 @@ Eat-Da-Burger is hosted on Heroku. Check it out by [clicking here.](https://shel
 
 ## Getting Started
 To use Eat-Da-Burger locally, use http://localhost:8080 after completing the following steps:
+
 ```npm install```
 ```node server.js```
+
+## Technologies Used
+* MySQL
+* Node.js
+* Express
+* Handlebars
